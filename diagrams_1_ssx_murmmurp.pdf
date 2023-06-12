@@ -12,7 +12,7 @@ BT
 /GS1 gs
 0 Tc
 0 Tw
-(d d~ > mur- mur+ WEIGHTED=2)Tj
+(s s~ > mur- mur+ WEIGHTED=2)Tj
 52.7778 0 TD
 (page 1/1)Tj
 -29.4444 -80 TD
@@ -31,7 +31,7 @@ S
 f
 BT
 9 0 0 9 102.3333 600.5 Tm
-(d)Tj
+(s)Tj
 -3.9259 -4.5 TD
 (1)Tj
 ET
@@ -45,7 +45,7 @@ S
 f
 BT
 9 0 0 9 110.3333 675.5 Tm
-(d~)Tj
+(s~)Tj
 -4.8148 3.8333 TD
 (2)Tj
 ET
@@ -193,7 +193,7 @@ S
 f
 BT
 9 0 0 9 377.3333 600.5 Tm
-(d)Tj
+(s)Tj
 -3.9259 -4.5 TD
 (1)Tj
 ET
@@ -207,7 +207,7 @@ S
 f
 BT
 9 0 0 9 385.3333 675.5 Tm
-(d~)Tj
+(s~)Tj
 -4.8148 3.8333 TD
 (2)Tj
 ET
